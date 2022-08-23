@@ -2,6 +2,8 @@
 
 **Author**: Casey Lee​ :kiwi_fruit:
 
+在线项目体验 http://124.70.88.139/kiwi_good_management/
+
 ---
 
 ## 数据库连接

@@ -1,0 +1,11 @@
+/*红字提示样式*/
+.verify{
+    color: #e26e7d;
+    font-size: 5px;
+    margin-top: -15px   /* 调位置 */
+}
+
+.nodisplay{
+    display: none;  /* 这个是主要的隐藏功能 */
+    transition: all 0.5s ease;  /* 动画效果 */
+}

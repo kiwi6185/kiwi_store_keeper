@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/controller/AddServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/controller/DeleteServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/controller/EditServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/controller/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/controller/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/controller/ShowAllServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/IGoodsDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/impl/GoodsDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/impl/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/domain/Goods.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/CharacterEncodingFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/impl/GoodsServiceImpl.java" charset="GBK" />
+  </component>
+</project>
